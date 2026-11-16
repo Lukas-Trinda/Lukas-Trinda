@@ -81,7 +81,7 @@ Atuação voluntária em projetos de pesquisa aplicada em IA e Robótica. Foco e
   <a href="https://www.linkedin.com/in/lukas-trindade-da-silva-49aa70386/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="lukas.t@aluno.ufabc.edu.br">
+  <a href="mailto:lukas.t@aluno.ufabc.edu.br">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://lattes.cnpq.br/3777682143681191">
