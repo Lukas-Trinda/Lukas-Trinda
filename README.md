@@ -3,7 +3,6 @@
 <h3 align="center">Estudante de Ciência e Tecnologia (UFABC) | Foco em IA, Machine Learning e LLMs</h3>
 
 <p align="center">
-  <a href="https://github.com/Lukas-Trinda">
     <img src="https://img.shields.io/badge/GitHub-Lukas--Trinda-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://lattes.cnpq.br/3777682143681191">
