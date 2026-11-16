@@ -75,15 +75,6 @@ Atuação voluntária em projetos de pesquisa aplicada em IA e Robótica. Foco e
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukas-Trinda&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas-Trinda&layout=compact&langs_count=6&theme=radical" alt="Linguagens mais usadas"/>
-</p>
-
----
-
 ## 📫 Como me encontrar
 
 <p align="center">
