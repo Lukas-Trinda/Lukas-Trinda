@@ -89,7 +89,7 @@ Atuação voluntária em projetos de pesquisa aplicada em IA e Robótica. Foco e
 ## 📫 Como me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[(https://www.linkedin.com/in/lukas-trindade-da-silva-49aa70386/)]">
+  <a href="https://www.linkedin.com/in/lukas-trindade-da-silva-49aa70386/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:[SEU-EMAIL]">
