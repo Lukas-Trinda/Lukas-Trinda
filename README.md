@@ -100,10 +100,6 @@ Meu interesse central é **construir e operacionalizar soluções de IA de ponta
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="./images/trophy.svg" alt="Troféus do GitHub"/>
-</p>
-
-<p align="center">
   <img src="./images/stats.svg" alt="Estatísticas do GitHub"/>
 </p>
 
