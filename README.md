@@ -100,13 +100,15 @@ Meu interesse central é **construir e operacionalizar soluções de IA de ponta
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Lukas-Trinda&theme=radical&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
-  
-### Linguagens
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="./images/trophy.svg" alt="Troféus do GitHub"/>
+</p>
+
+<p align="center">
+  <img src="./images/stats.svg" alt="Estatísticas do GitHub"/>
+</p>
+
+<p align="center">
+  <img src="./images/top-langs.svg" alt="Linguagens mais usadas"/>
 </p>
 
 > 💡 *Se as imagens acima não carregarem, é uma instabilidade temporária dos serviços de terceiros. Recarregue a página ou acesse [github.com/Lukas-Trinda](https://github.com/Lukas-Trinda).*
