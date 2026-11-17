@@ -32,14 +32,6 @@ jobs:
           path: images/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: ${{ github.repository_owner }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          file: images/trophy.svg
-          theme: radical
-          max-rows: 1
 
       - name: Commit cards
         run: |
