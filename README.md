@@ -99,6 +99,7 @@ Meu interesse central é **construir e operacionalizar soluções de IA de ponta
 
 ## 📊 Estatísticas do GitHub
 
+<p align="center">
 <img src="https://streak-stats.demolab.com/?user=Lukas-Trinda&theme=radical&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lukas-Trinda&theme=radical&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
