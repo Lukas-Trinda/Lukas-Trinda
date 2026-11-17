@@ -109,8 +109,11 @@ Meu interesse central é **construir e operacionalizar soluções de IA de ponta
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lukas-Trinda&theme=radical&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas-Trinda&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Linguagens mais usadas"/>
+### Linguagens
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 > 💡 *Se as imagens acima não carregarem, é uma instabilidade temporária dos serviços de terceiros. Recarregue a página ou acesse [github.com/Lukas-Trinda](https://github.com/Lukas-Trinda).*
