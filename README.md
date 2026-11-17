@@ -101,10 +101,7 @@ Meu interesse central é **construir e operacionalizar soluções de IA de ponta
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Lukas-Trinda&theme=radical&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lukas-Trinda&theme=radical&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
-</p>
-
+  
 ### Linguagens
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
