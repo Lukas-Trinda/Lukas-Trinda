@@ -100,9 +100,7 @@ Meu interesse central é **construir e operacionalizar soluções de IA de ponta
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/Lukas-Trinda">
-    <img src="https://github-profile-trophy.vercel.app/?username=Lukas-Trinda&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Troféus do GitHub"/>
-  </a>
+  <img src="./images/trophy.svg" alt="Troféus do GitHub"/>
 </p>
 
 <p align="center">
